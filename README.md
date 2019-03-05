@@ -1,5 +1,5 @@
 Welcome! This is the Fighter Star program repository. My name is Susan. I am an independent journalist in China 
-also, interested in civil technology and digital rights.
+and interested in civil technology and digital rights.
 
 In China, more and more independent writers and citizen journalists emerge and conduct high-quality articles, but lack of promotion channel and fund for their continuous works. Fighter Star platform try to engage more readers and organizations to support them by crowdfunding; at the same time, the readers and donators can enjoy the constant high-quality articles and reports. If it can become a system, it will be win-win.
 
